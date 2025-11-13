@@ -8,15 +8,15 @@ Para poder descargar la carpeta se hacen los siguientes pasos:
 
 <ol>
   <li>En el proyecto de GitHub nos vamos al apartado de <strong>Code</strong> que se encuentra en la parte superior derecha del proyecto.</li>
-  <img src="imagenes/1000555417.jpg">
+  <img src="imagenes/1000557929.jpg">
   <li>En el apartado de <strong>Local</strong>, seleccionamos la opción <strong>Download ZIP</strong> para descargar la carpeta completa.</li>
-    <img src="imagenes/1000555405.jpg">
+    <img src="imagenes/1000557935.jpg">
   <li>Vamos a los archivos y descomprimimos la carpeta del proyecto.</li>
-    <img src="imagenes/1000555411.jpg">
+    <img src="imagenes/1000557939.jpg">
   <li>Damos clic en <strong>Extraer</strong>.</li>
-    <img src="imagenes/1000555410.jpg">
+    <img src="imagenes/1000557936.jpg">
   <li>Ya tenemos la carpeta completamente descargada para poder ser utilizada.</li>
-    <img src="imagenes/1000555412.jpg">
+    <img src="imagenes/IMG-20251113-WA0002.jpg">
 </ol>
 
 <p>
@@ -47,7 +47,7 @@ Como ejecutar un programa en pseint
 <p>
 Para poder ejecutar nuestro proyecto es necesario haber instalado previamente pseint para ello se anexa la siguiente imagen donde se muestra la imagen de la pagina para descargar
   el programa de Pseint. </p>
-<img src="imagenes/1000555419.jpg">
+<img src="imagenes/1000557934.jpg">
 <p>
 En este caso se muestra tres enlaces en los cuales existen tres versiones del programa en pseint los cuales son para los sistemas operativos linux, windows y ios 
   
@@ -59,7 +59,7 @@ Despues en el editor de codigo para compilar nos hiremos a la parte superior izq
 Finalmente se podra visualizar el programa ya compilado para poder ser usado.
 
 </p>
-<img src="imagenes/1000555409.jpg">
+<img src="imagenes/1000557950.jpg">
 </p>
 
 <h2>
@@ -178,20 +178,20 @@ En este programa las variables de tipo flotante se utilizan para guardar los res
 ingresar un número negativo nos marcara error el programa diciendo
 que solo permite números mayor a 0 y al ingresar un número mayor a 5 nos marcara
 opción no valida, después nos vuelve a reiniciar a la misma opción que ingresemos.</li>
-<img src="imagenes/Caso1(1).png">
-<img src="imagenes/Caso1(2).png">
+<img src="imagenes/1000557928.jpg">
+<img src="imagenes/1000557932.jpg">
   <li>Caso 2: Al ingresar el consumo de agua por día, cuando queremos ingresar un numero negativo nos marcara error el programa diciendo que solo permite
 números mayor a 0.</li>
-<img src="imagenes/Caso2.png">
+<img src="imagenes/1000557940.jpg">
   <li>Caso 3: Al ingresar el consumo por día de agua , cuando queremos ingresar más
 de 52 semana ya sea 61 nos marcara error el programa no permite caracteres solo
 número mayor a 0 y que también tiene un límite de semanas que son 52 semanas.</li>
-<img src="imagenes/Caso3.png">
+<img src="imagenes/1000557951.jpg">
 <li>Caso 4: Al ingresar el consumo por día de agua, cuando queremos ingresar el
 consumo del día 1 en litros si pone una cantidad más grande nos va a marcar una
 alerta diciendo consumo excesivo de agua o posible fuga de agua, pero no nos
 marcara error, pero nos ira contando los consumos de litros por días, así como
 aparece en la imagen.</li>
-<img src="imagenes/Caso4.png">
+<img src="imagenes/1000557931.jpg">
 </ul>
-<link href="style.css"
+<link rel="stylesheet" type="text/css" href="estilos_pseint.css">
